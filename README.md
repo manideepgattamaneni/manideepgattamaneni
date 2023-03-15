@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manideepgattamaneni
 - 👀 I’m interested in games, travel
-- 🌱 I’m currently learning Ruby & Scala
+- 🌱 I’m currently learning Scala & kotlin
 - 💞️ I’m looking forward to work with everyone.
 
 <!---
